@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reportsapp/static/css/main.b100e6da.chunk.css",
+    "main.js": "/reportsapp/static/js/main.6c953399.chunk.js",
+    "main.js.map": "/reportsapp/static/js/main.6c953399.chunk.js.map",
+    "runtime-main.js": "/reportsapp/static/js/runtime-main.bbf7ecf6.js",
+    "runtime-main.js.map": "/reportsapp/static/js/runtime-main.bbf7ecf6.js.map",
+    "static/js/2.8eb9b2ea.chunk.js": "/reportsapp/static/js/2.8eb9b2ea.chunk.js",
+    "static/js/2.8eb9b2ea.chunk.js.map": "/reportsapp/static/js/2.8eb9b2ea.chunk.js.map",
+    "index.html": "/reportsapp/index.html",
+    "precache-manifest.e3cb0d954fc533e562850f2aa1a8c647.js": "/reportsapp/precache-manifest.e3cb0d954fc533e562850f2aa1a8c647.js",
+    "service-worker.js": "/reportsapp/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/reportsapp/static/css/main.b100e6da.chunk.css.map",
+    "static/media/Rubik-Bold.ttf": "/reportsapp/static/media/Rubik-Bold.9a6fb6f5.ttf",
+    "static/media/Rubik-Regular.ttf": "/reportsapp/static/media/Rubik-Regular.b3d0902b.ttf",
+    "static/media/logo.svg": "/reportsapp/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbf7ecf6.js",
+    "static/js/2.8eb9b2ea.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.6c953399.chunk.js"
+  ]
+}

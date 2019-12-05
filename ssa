@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -a -m "pdf sample added"
+git remote add origin https://github.com/kantorv/reportsapp.git
+git push -f origin master
